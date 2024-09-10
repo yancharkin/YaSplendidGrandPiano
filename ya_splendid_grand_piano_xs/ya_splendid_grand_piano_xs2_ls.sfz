@@ -1,0 +1,7 @@
+<global>
+loop_mode=loop_continuous
+ampeg_attack=0.001
+ampeg_decay=5.5
+ampeg_release=2.5
+
+#include "mappings/panned_ls.sfzh"

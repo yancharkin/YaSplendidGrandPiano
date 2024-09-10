@@ -1,0 +1,7 @@
+<group>
+lovel=5 hivel=85
+#include "panned/pp_ls.sfzh"
+
+<group>
+lovel=85 hivel=127
+#include "panned/mf_ls.sfzh"

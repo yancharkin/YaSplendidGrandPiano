@@ -1,0 +1,7 @@
+<group>
+lovel=5 hivel=84
+#include "mono/pp_ls.sfzh"
+
+<group>
+lovel=85 hivel=127
+#include "mono/mf_ls.sfzh"

@@ -1,0 +1,23 @@
+<master>
+//locc0=2 hicc0=2 // Bank Select MSB
+locc32=2 hicc32=2 // Bank Select LSB
+lovel=5 hivel=67
+#include "mappings/mono2/pp.sfzh"
+
+<master>
+//locc0=2 hicc0=2
+locc32=2 hicc32=2
+lovel=68 hivel=84
+#include "mappings/mono2/mp.sfzh"
+
+<master>
+//locc0=2 hicc0=2
+locc32=2 hicc32=2
+lovel=85 hivel=100
+#include "mappings/mono2/mf.sfzh"
+
+<master>
+//locc0=2 hicc0=2
+locc32=2 hicc32=2
+lovel=101 hivel=127
+#include "mappings/mono2/ff.sfzh"

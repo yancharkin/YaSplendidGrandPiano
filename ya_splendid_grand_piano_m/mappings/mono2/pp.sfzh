@@ -1,0 +1,363 @@
+<control>
+default_path=samples/
+
+// A0 A#0 B0 C1
+<group>
+pitch_keycenter=23
+lokey=21 hikey=24
+loop_start=366670
+loop_end=529875
+end=529888
+<region>
+sample=pp/pp_23_b0_l.wav
+<region>
+sample=pp/pp_23_b0_r.wav
+
+// C#1 D1 D#1 E1 F1
+<group>
+pitch_keycenter=27
+lokey=25 hikey=29
+loop_start=396463
+loop_end=562782
+end=562795
+<region>
+sample=pp/pp_27_d#1_l.wav
+<region>
+sample=pp/pp_27_d#1_r.wav
+
+// F#1 G1 G#1
+<group>
+pitch_keycenter=31
+lokey=30 hikey=32
+loop_start=330340
+loop_end=441006
+end=441019
+<region>
+sample=pp/pp_31_g1_l.wav
+<region>
+sample=pp/pp_31_g1_r.wav
+
+// A1 A#1 B1
+<group>
+pitch_keycenter=33
+lokey=33 hikey=35
+loop_start=321570
+loop_end=423338
+end=423351
+<region>
+sample=pp/pp_33_a1_l.wav
+<region>
+sample=pp/pp_33_a1_r.wav
+
+// C2 C#2
+<group>
+pitch_keycenter=37
+lokey=36 hikey=37
+loop_start=338548
+loop_end=468079
+end=468092
+<region>
+sample=pp/pp_37_c#2_l.wav
+<region>
+sample=pp/pp_37_c#2_r.wav
+
+// D2 D#2 E2 F2
+<group>
+pitch_keycenter=40
+lokey=38 hikey=41
+loop_start=297669
+loop_end=415212
+end=415225
+<region>
+sample=pp/pp_40_e2_l.wav
+<region>
+sample=pp/pp_40_e2_r.wav
+
+// F#2 G2 G#2
+<group>
+pitch_keycenter=43
+lokey=42 hikey=44
+loop_start=172391
+loop_end=281742
+end=281755
+<region>
+sample=pp/pp_43_g2_l.wav
+<region>
+sample=pp/pp_43_g2_r.wav
+
+// A2 A#2 B2
+<group>
+pitch_keycenter=47
+lokey=45 hikey=47
+loop_start=205676
+loop_end=335285
+end=335298
+<region>
+sample=pp/pp_47_b2_l.wav
+<region>
+sample=pp/pp_47_b2_r.wav
+
+// C3 C#3 D3
+<group>
+pitch_keycenter=48
+lokey=48 hikey=50
+loop_start=201695
+loop_end=326928
+end=326941
+<region>
+sample=pp/pp_48_c3_l.wav
+<region>
+sample=pp/pp_48_c3_r.wav
+
+// D#3 E3 F3
+<group>
+pitch_keycenter=52
+lokey=51 hikey=53
+loop_start=201551
+loop_end=267670
+end=267683
+<region>
+sample=pp/pp_52_e3_l.wav
+<region>
+sample=pp/pp_52_e3_r.wav
+
+// F#3 G3 G#3
+<group>
+pitch_keycenter=55
+lokey=54 hikey=56
+loop_start=220841
+loop_end=302209
+end=302222
+<region>
+sample=pp/pp_55_g3_l.wav
+<region>
+sample=pp/pp_55_g3_r.wav
+
+// A3 A#3 B3
+<group>
+pitch_keycenter=59
+lokey=57 hikey=59
+loop_start=164470
+loop_end=219605
+end=219618
+<region>
+sample=pp/pp_59_b3_l.wav
+<region>
+sample=pp/pp_59_b3_r.wav
+
+// C4 C#4 D4
+<group>
+pitch_keycenter=60
+lokey=60 hikey=62
+loop_start=169305
+loop_end=225208
+end=225221
+<region>
+sample=pp/pp_60_c4_l.wav
+<region>
+sample=pp/pp_60_c4_r.wav
+
+// D#4 E4 F4
+<group>
+pitch_keycenter=64
+lokey=63 hikey=65
+loop_start=200593
+loop_end=249284
+end=249297
+<region>
+sample=pp/pp_64_e4_l.wav
+<region>
+sample=pp/pp_64_e4_r.wav
+
+// F#4 G4 G#4
+<group>
+pitch_keycenter=67
+lokey=66 hikey=68
+loop_start=186329
+loop_end=239644
+end=239657
+<region>
+sample=pp/pp_67_g4_l.wav
+<region>
+sample=pp/pp_67_g4_r.wav
+
+// A4 A#4
+<group>
+pitch_keycenter=69
+lokey=69 hikey=70
+loop_start=196335
+loop_end=255783
+end=255796
+<region>
+sample=pp/pp_69_a4_l.wav
+<region>
+sample=pp/pp_69_a4_r.wav
+
+// B4 C5 C#5
+<group>
+pitch_keycenter=72
+lokey=71 hikey=73
+loop_start=122880
+loop_end=183891
+end=183904
+<region>
+sample=pp/pp_72_c5_l.wav
+<region>
+sample=pp/pp_72_c5_r.wav
+
+// D5 D#5 E5
+<group>
+pitch_keycenter=76
+lokey=74 hikey=76
+loop_start=125612
+loop_end=185636
+end=185649
+<region>
+sample=pp/pp_76_e5_l.wav
+<region>
+sample=pp/pp_76_e5_r.wav
+
+// F5 F#5 G5
+<group>
+pitch_keycenter=77
+lokey=77 hikey=79
+loop_start=92026
+loop_end=141590
+end=141603
+<region>
+sample=pp/pp_77_f5_l.wav
+<region>
+sample=pp/pp_77_f5_r.wav
+
+// G#5 A5 A#5
+<group>
+pitch_keycenter=81
+lokey=80 hikey=82
+loop_start=63653
+loop_end=87447
+end=87460
+<region>
+sample=pp/pp_81_a5_l.wav
+<region>
+sample=pp/pp_81_a5_r.wav
+
+// B5
+<group>
+pitch_keycenter=83
+//lokey=83 hikey=83
+key=83
+loop_start=82067
+loop_end=111060
+<region>
+sample=pp/pp_83_b5_l.wav
+<region>
+sample=pp/pp_83_b5_r.wav
+
+// C6 C#6 D6
+<group>
+pitch_keycenter=85
+lokey=84 hikey=86
+loop_start=70823
+loop_end=121386
+end=121413
+<region>
+sample=pp/pp_85_c#6_l.wav
+<region>
+sample=pp/pp_85_c#6_r.wav
+
+// D#6 E6 F6
+<group>
+pitch_keycenter=89
+lokey=87 hikey=89
+loop_start=83841
+loop_end=93508
+end=93521
+<region>
+sample=pp/pp_89_f6_l.wav
+<region>
+sample=pp/pp_89_f6_r.wav
+
+// F#6 G6 G#6
+<group>
+pitch_keycenter=91
+lokey=90 hikey=92
+loop_start=86879
+loop_end=92975
+end=92988
+<region>
+sample=pp/pp_91_g6_l.wav
+<region>
+sample=pp/pp_91_g6_r.wav
+
+// A6 A#6 B6
+<group>
+pitch_keycenter=93
+lokey=93 hikey=95
+loop_start=103734
+loop_end=127938
+end=127951
+<region>
+sample=pp/pp_93_a6_l.wav
+<region>
+sample=pp/pp_93_a6_r.wav
+
+// C7 C#7 D7
+<group>
+pitch_keycenter=96
+lokey=96 hikey=98
+loop_start=77064
+loop_end=111781
+end=111794
+<region>
+sample=pp/pp_96_c7_l.wav
+<region>
+sample=pp/pp_96_c7_r.wav
+
+// D#7 E7 F7 F#7
+<group>
+pitch_keycenter=100
+lokey=99 hikey=102
+loop_start=86597
+loop_end=103645
+end=103658
+<region>
+sample=pp/pp_100_e7_l.wav
+<region>
+sample=pp/pp_100_e7_r.wav
+
+// G7 G#7
+<group>
+pitch_keycenter=103
+lokey=103 hikey=104
+loop_start=104571
+loop_end=137844
+end=137857
+<region>
+sample=pp/pp_103_g7_l.wav
+<region>
+sample=pp/pp_103_g7_r.wav
+
+// A7 A#7
+<group>
+pitch_keycenter=105
+lokey=105 hikey=106
+loop_start=83825
+loop_end=105464
+end=105477
+<region>
+sample=pp/pp_105_a7_l.wav
+<region>
+sample=pp/pp_105_a7_r.wav
+
+// B7 C8
+<group>
+pitch_keycenter=108
+lokey=107 hikey=108
+loop_start=75934
+loop_end=105882
+end=105895
+<region>
+sample=pp/pp_108_c8_l.wav
+<region>
+sample=pp/pp_108_c8_r.wav
+

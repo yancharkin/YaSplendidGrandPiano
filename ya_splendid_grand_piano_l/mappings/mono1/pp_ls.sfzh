@@ -1,0 +1,551 @@
+<control>
+default_path=../../samples/
+
+<region>
+sample=pp/pp_23_b0_l.wav
+pitch_keycenter=23
+lokey=21 hikey=24
+volume=2
+loop_start=366670
+loop_end=529874
+end=529888
+
+<region>
+sample=pp/pp_27_d#1_l.wav
+pitch_keycenter=27
+lokey=25 hikey=27
+volume=2
+loop_start=396463
+loop_end=562781
+end=562795
+
+<region>
+sample=pp/pp_29_f1_l.wav
+pitch_keycenter=29
+lokey=28 hikey=30
+volume=2
+loop_start=322487
+loop_end=458500
+end=458514
+
+<region>
+sample=pp/pp_31_g1_l.wav
+pitch_keycenter=31
+lokey=31 hikey=32
+volume=2
+loop_start=330340
+loop_end=441005
+end=441019
+
+<region>
+sample=pp/pp_33_a1_l.wav
+pitch_keycenter=33
+lokey=33 hikey=34
+volume=2
+loop_start=321570
+loop_end=423337
+end=423351
+
+<region>
+sample=pp/pp_35_b1_l.wav
+pitch_keycenter=35
+lokey=35 hikey=35
+volume=2
+loop_start=262593
+loop_end=395469
+end=395483
+
+<region>
+sample=pp/pp_37_c#2_l.wav
+pitch_keycenter=37
+lokey=36 hikey=37
+volume=2
+loop_start=338548
+loop_end=468078
+end=468092
+
+<region>
+sample=pp/pp_38_d2_l.wav
+pitch_keycenter=38
+lokey=38 hikey=39
+volume=2
+loop_start=322326
+loop_end=437787
+end=437801
+
+<region>
+sample=pp/pp_40_e2_l.wav
+pitch_keycenter=40
+lokey=40 hikey=40
+volume=2
+loop_start=297669
+loop_end=415211
+end=415225
+
+<region>
+sample=pp/pp_41_f2_l.wav
+pitch_keycenter=41
+lokey=41 hikey=41
+volume=2
+loop_start=238567
+loop_end=360330
+end=360344
+
+<region>
+sample=pp/pp_43_g2_l.wav
+pitch_keycenter=43
+lokey=42 hikey=44
+volume=2
+loop_start=172391
+loop_end=281741
+end=281755
+
+<region>
+sample=pp/pp_45_a2_l.wav
+pitch_keycenter=45
+lokey=45 hikey=46
+volume=2
+loop_start=209021
+loop_end=329641
+end=329655
+
+<region>
+sample=pp/pp_47_b2_l.wav
+pitch_keycenter=47
+lokey=47 hikey=47
+volume=2
+loop_start=205676
+loop_end=335284
+end=335298
+
+<region>
+sample=pp/pp_48_c3_l.wav
+pitch_keycenter=48
+lokey=48 hikey=49
+volume=2
+loop_start=201695
+loop_end=326927
+end=326941
+
+<region>
+sample=pp/pp_50_d3_l.wav
+pitch_keycenter=50
+lokey=50 hikey=50
+volume=2
+loop_start=165039
+loop_end=265439
+end=265453
+
+<region>
+sample=pp/pp_52_e3_l.wav
+pitch_keycenter=52
+lokey=51 hikey=52
+volume=2
+loop_start=201551
+loop_end=267669
+end=267683
+
+<region>
+sample=pp/pp_53_f3_l.wav
+pitch_keycenter=53
+lokey=53 hikey=54
+volume=2
+loop_start=203717
+loop_end=271289
+end=271303
+
+<region>
+sample=pp/pp_55_g3_l.wav
+pitch_keycenter=55
+lokey=55 hikey=55
+volume=2
+loop_start=220841
+loop_end=302208
+end=302222
+
+<region>
+sample=pp/pp_56_g#3_l.wav
+pitch_keycenter=56
+lokey=56 hikey=56
+volume=2
+loop_start=194390
+loop_end=275231
+end=275245
+
+<region>
+sample=pp/pp_57_a3_l.wav
+pitch_keycenter=57
+lokey=57 hikey=57
+volume=2
+loop_start=214684
+loop_end=297214
+end=297228
+
+<region>
+sample=pp/pp_58_a#3_l.wav
+pitch_keycenter=58
+lokey=58 hikey=58
+volume=2
+loop_start=165410
+loop_end=218373
+end=218387
+
+<region>
+sample=pp/pp_59_b3_l.wav
+pitch_keycenter=59
+lokey=59 hikey=59
+volume=2
+loop_start=164470
+loop_end=219604
+end=219618
+
+<region>
+sample=pp/pp_60_c4_l.wav
+pitch_keycenter=60
+lokey=60 hikey=61
+volume=2
+loop_start=169305
+loop_end=225207
+end=225221
+
+<region>
+sample=pp/pp_62_d4_l.wav
+pitch_keycenter=62
+lokey=62 hikey=63
+volume=2
+loop_start=141955
+loop_end=200475
+end=200489
+
+<region>
+sample=pp/pp_64_e4_l.wav
+pitch_keycenter=64
+lokey=64 hikey=64
+volume=2
+loop_start=200593
+loop_end=249283
+end=249297
+
+<region>
+sample=pp/pp_65_f4_l.wav
+pitch_keycenter=65
+lokey=65 hikey=66
+volume=2
+loop_start=147213
+loop_end=204705
+end=204719
+
+<region>
+sample=pp/pp_67_g4_l.wav
+pitch_keycenter=67
+lokey=67 hikey=68
+volume=2
+loop_start=186329
+loop_end=239643
+end=239657
+
+<region>
+sample=pp/pp_69_a4_l.wav
+pitch_keycenter=69
+lokey=69 hikey=69
+volume=2
+loop_start=196335
+loop_end=255782
+end=255796
+
+<region>
+sample=pp/pp_71_b4_l.wav
+pitch_keycenter=71
+lokey=70 hikey=71
+volume=2
+loop_start=190573
+loop_end=265500
+end=265514
+
+<region>
+sample=pp/pp_72_c5_l.wav
+pitch_keycenter=72
+lokey=72 hikey=73
+volume=2
+loop_start=122880
+loop_end=183890
+end=183904
+
+<region>
+sample=pp/pp_74_d5_l.wav
+pitch_keycenter=74
+lokey=74 hikey=75
+volume=2
+loop_start=132754
+loop_end=178052
+end=178066
+
+<region>
+sample=pp/pp_76_e5_l.wav
+pitch_keycenter=76
+lokey=76 hikey=76
+volume=2
+loop_start=125612
+loop_end=185635
+end=185649
+
+<region>
+sample=pp/pp_77_f5_l.wav
+pitch_keycenter=77
+lokey=77 hikey=78
+volume=2
+loop_start=92026
+loop_end=141589
+end=141603
+
+<region>
+sample=pp/pp_79_g5_l.wav
+pitch_keycenter=79
+lokey=79 hikey=79
+volume=2
+loop_start=128309
+loop_end=164978
+end=164992
+
+<region>
+sample=pp/pp_80_g#5_l.wav
+pitch_keycenter=80
+lokey=80 hikey=80
+volume=2
+loop_start=134162
+loop_end=174446
+end=174460
+
+<region>
+sample=pp/pp_81_a5_l.wav
+pitch_keycenter=81
+lokey=81 hikey=81
+volume=2
+loop_start=63653
+loop_end=87446
+end=87460
+
+<region>
+sample=pp/pp_82_a#5_l.wav
+pitch_keycenter=82
+lokey=82 hikey=82
+volume=2
+loop_start=80331
+loop_end=109530
+end=109544
+
+<region>
+sample=pp/pp_83_b5_l.wav
+pitch_keycenter=83
+lokey=83 hikey=83
+volume=2
+loop_start=82067
+loop_end=111059
+end=111073
+
+<region>
+sample=pp/pp_85_c#6_l.wav
+pitch_keycenter=85
+lokey=84 hikey=85
+volume=2
+loop_start=70823
+loop_end=121385
+end=121413
+
+<region>
+sample=pp/pp_86_d6_l.wav
+pitch_keycenter=86
+lokey=86 hikey=86
+volume=2
+loop_start=48219
+loop_end=90672
+end=90700
+
+<region>
+sample=pp/pp_87_d#6_l.wav
+pitch_keycenter=87
+lokey=87 hikey=87
+volume=2
+loop_start=55083
+loop_end=99182
+end=99210
+
+<region>
+sample=pp/pp_89_f6_l.wav
+pitch_keycenter=89
+lokey=88 hikey=89
+volume=2
+loop_start=83841
+loop_end=93507
+end=93521
+
+<region>
+sample=pp/pp_90_f#6_l.wav
+pitch_keycenter=90
+lokey=90 hikey=90
+volume=2
+loop_start=68802
+loop_end=91785
+end=91799
+
+<region>
+sample=pp/pp_91_g6_l.wav
+pitch_keycenter=91
+lokey=91 hikey=91
+volume=2
+loop_start=86879
+loop_end=92974
+end=92988
+
+<region>
+sample=pp/pp_92_g#6_l.wav
+pitch_keycenter=92
+lokey=92 hikey=92
+volume=2
+loop_start=61498
+loop_end=91803
+end=91817
+
+<region>
+sample=pp/pp_93_a6_l.wav
+pitch_keycenter=93
+lokey=93 hikey=93
+volume=2
+loop_start=103734
+loop_end=127937
+end=127951
+
+<region>
+sample=pp/pp_94_a#6_l.wav
+pitch_keycenter=94
+lokey=94 hikey=94
+volume=2
+loop_start=80590
+loop_end=101364
+end=101378
+
+<region>
+sample=pp/pp_95_b6_l.wav
+pitch_keycenter=95
+lokey=95 hikey=95
+volume=2
+loop_start=94843
+loop_end=114156
+end=114170
+
+<region>
+sample=pp/pp_96_c7_l.wav
+pitch_keycenter=96
+lokey=96 hikey=96
+volume=2
+loop_start=77064
+loop_end=111780
+end=111794
+
+<region>
+sample=pp/pp_97_c#7_l.wav
+pitch_keycenter=97
+lokey=97 hikey=97
+volume=2
+loop_start=76590
+loop_end=88778
+end=88792
+
+<region>
+sample=pp/pp_98_d7_l.wav
+pitch_keycenter=98
+lokey=98 hikey=98
+volume=2
+loop_start=70428
+loop_end=90365
+end=90379
+
+<region>
+sample=pp/pp_99_d#7_l.wav
+pitch_keycenter=99
+lokey=99 hikey=99
+volume=2
+loop_start=90390
+loop_end=114278
+end=114292
+
+<region>
+sample=pp/pp_100_e7_l.wav
+pitch_keycenter=100
+lokey=100 hikey=100
+volume=2
+loop_start=86597
+loop_end=103644
+end=103658
+
+<region>
+sample=pp/pp_101_f7_l.wav
+pitch_keycenter=101
+lokey=101 hikey=101
+volume=2
+loop_start=86894
+loop_end=105843
+end=105857
+
+<region>
+sample=pp/pp_102_f#7_l.wav
+pitch_keycenter=102
+lokey=102 hikey=102
+volume=2
+loop_start=88154
+loop_end=102082
+end=102096
+
+<region>
+sample=pp/pp_103_g7_l.wav
+pitch_keycenter=103
+lokey=103 hikey=103
+volume=2
+loop_start=104571
+loop_end=137843
+end=137857
+
+<region>
+sample=pp/pp_104_g#7_l.wav
+pitch_keycenter=104
+lokey=104 hikey=104
+volume=2
+loop_start=97947
+loop_end=127472
+end=127486
+
+<region>
+sample=pp/pp_105_a7_l.wav
+pitch_keycenter=105
+lokey=105 hikey=105
+volume=2
+loop_start=83825
+loop_end=105463
+end=105477
+
+<region>
+sample=pp/pp_106_a#7_l.wav
+pitch_keycenter=106
+lokey=106 hikey=106
+volume=2
+loop_start=79854
+loop_end=111709
+end=111723
+
+<region>
+sample=pp/pp_107_b7_l.wav
+pitch_keycenter=107
+lokey=107 hikey=107
+volume=2
+loop_start=67824
+loop_end=99957
+end=99971
+
+<region>
+sample=pp/pp_108_c8_l.wav
+pitch_keycenter=108
+lokey=108 hikey=108
+volume=2
+loop_start=75934
+loop_end=105881
+end=105895

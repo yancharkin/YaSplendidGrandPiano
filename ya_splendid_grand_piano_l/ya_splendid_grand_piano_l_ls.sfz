@@ -1,0 +1,15 @@
+<global>
+loop_mode=loop_continuous
+ampeg_attack=0.001
+ampeg_decay=5.68633
+ampeg_release=2.47941
+//amplfo_freq=8.176
+//fillfo_freq=8.176
+//pitchlfo_freq=8.176
+//fil_type=lpf_2p
+//cutoff=19913
+
+#include "mappings/mono1-2_ls.sfzh"
+#include "mappings/panned1-2_ls.sfzh"
+#include "mappings/mono2-2_ls.sfzh"
+#include "mappings/stereo1-2_ls.sfzh"

@@ -1,0 +1,15 @@
+<master>
+lovel=5 hivel=67
+#include "mono2/pp_ls.sfzh"
+
+<master>
+lovel=68 hivel=84
+#include "mono2/mp_ls.sfzh"
+
+<master>
+lovel=85 hivel=100
+#include "mono2/mf_ls.sfzh"
+
+<master>
+lovel=101 hivel=127
+#include "mono2/ff_ls.sfzh"

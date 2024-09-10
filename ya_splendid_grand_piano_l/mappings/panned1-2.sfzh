@@ -1,0 +1,23 @@
+<master>
+//locc0=1 hicc0=1 // Bank Select MSB
+locc32=1 hicc32=1 // Bank Select LSB
+lovel=5 hivel=67
+#include "mappings/panned/pp.sfzh"
+
+<master>
+//locc0=1 hicc0=1
+locc32=1 hicc32=1
+lovel=68 hivel=84
+#include "mappings/panned/mp.sfzh"
+
+<master>
+//locc0=1 hicc0=1
+locc32=1 hicc32=1
+lovel=85 hivel=100
+#include "mappings/panned/mf.sfzh"
+
+<master>
+//locc0=1 hicc0=1
+locc32=1 hicc32=1
+lovel=101 hivel=127
+#include "mappings/panned/ff.sfzh"
